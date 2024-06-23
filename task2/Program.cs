@@ -25,3 +25,11 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+
+i1 = 2;
+i2 = 3;
+l1 = 5;
+d1 = 6;
+double quotient3 = (i1 * i2) / (l1 + d1);
+Console.WriteLine(quotient3);
